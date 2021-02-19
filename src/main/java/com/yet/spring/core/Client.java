@@ -1,3 +1,5 @@
+package com.yet.spring.core;
+
 public class Client {
     private String id;
     private String name;
